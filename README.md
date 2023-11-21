@@ -8,4 +8,7 @@ Input:
 Output
    simple interest = p*t*r
 
+Added the Coursera Project on Github. 
+
 2023 India, Inc.
+
